@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm 여학민</h1>
+<h1 align="center">Hi there 👋, I'm YEO</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+GitHub!;I+love+coding+in+Python+%26+JavaScript" alt="Typing SVG" />
@@ -10,9 +10,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **Aquarium subscription system** & **High school study assistant app**
 - 🌱 I’m learning: **React, JavaScript, Python, GitHub**
-- 📫 Contact me: `your.email@example.com` (replace with yours)
+- 📫 Contact me: `ymg090724@naver.com`
 
 ---
 
