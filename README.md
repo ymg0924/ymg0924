@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello,%20I'm%20YEO!&fontSize=32&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <a href="mailto:ymg090724@naver.com"><img src="https://img.shields.io/badge/Contact-Me-red?style=flat-square&logo=gmail"></a>
-  <img src="https://img.shields.io/github/followers/ymg090724?style=social">
-</p>
-
 ---
 
 
