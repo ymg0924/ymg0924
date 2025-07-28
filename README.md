@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:ymg090724@naver.com"><img src="https://img.shields.io/badge/Contact-Me-red?style=flat-square&logo=gmail"></a>
-  <img src="https://img.shields.io/github/followers/your-github-id?style=social">
+  <img src="https://img.shields.io/github/followers/ymg090724?style=social">
 </p>
 
 ---
